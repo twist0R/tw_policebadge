@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat');
+
+body{
+  font-family: 'Montserrat', sans-serif;
+}
+.badgepolice{
+  position:relative;
+  width:100%;
+  display: none;
+}
+.badgepolice img,h1{
+  display:block;
+  margin:0;
+  padding:0;
+  position:absolute;
+  top: 30px;
+}
+
+#imgdisplay1{
+  top:196px;
+  left:120px;
+}
+#imgdisplay2{
+  left:10px;
+}
+
+#display{
+  display:block;
+  margin:0;
+  padding:0;
+  position:absolute;
+  top:350px;
+  left:90px;
+  font-size: 20px;
+  width: 200px;
+  height: 170px;
+  text-align: center;
+}
+#display h4{
+  font-weight: bold;
+}
+
+#display h5{
+  font-style: italic;
+}
+
+.infos{
+  position: relative;
+  float: left;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}

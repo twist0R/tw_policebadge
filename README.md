@@ -13,6 +13,7 @@ Runs at ~ 0.00 to 0.01 ms if you have more optimization suggestions feel free to
 
 # Installation
 * **just put in your server.cfg " ensure kurat420_policebadge "**
+* **check the badge.sql file and put on your database**
 
 # Features
 * Animation Optimized

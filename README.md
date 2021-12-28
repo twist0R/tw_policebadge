@@ -15,8 +15,8 @@ Runs at ~ 0.00 to 0.01 ms if you have more optimization suggestions feel free to
 * **just put in your server.cfg " ensure kurat420_policebadge "**
 
 # Features
-* Animation with prop
-* Show badge when start animation's
+* Animation Optimized
+* Show badge when start Animation's
 * Customizable
 * To put the picture u need to go to you MDT and upload on your Profile
 #

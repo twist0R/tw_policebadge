@@ -23,7 +23,7 @@ Runs at ~ 0.00 to 0.01 ms if you have more optimization suggestions feel free to
 
 # Previews
 ### POLICE BADGE
-![VIDEO](https://cdn.discordapp.com/attachments/881955889861509120/925470242405240883/2021-12-28_19-19-18.mp4)
+![video](https://streamable.com/18tv2f)
 
 # Issues and Suggestions
 Please use the GitHub issues system to report issues or make suggestions, when making suggestion, please keep [Suggestion] in the title to make it clear that it is a suggestion.

@@ -18,7 +18,7 @@ Runs at ~ 0.00 to 0.01 ms if you have more optimization suggestions feel free to
 * Animation with prop
 * Show badge when start animation's
 * Customizable
-* To put the picture u need to go to you MDT and upload
+* To put the picture u need to go to you MDT and upload on your Profile
 #
 
 # Previews

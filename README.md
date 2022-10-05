@@ -1,10 +1,10 @@
 ![tw-PoliceBadge](https://cdn.discordapp.com/attachments/881955889861509120/925470564049616986/BANNERBADGE.png)
 
-# tw1st0R- POLICE BADGE Script used with ESX
+# tw1st0R- POLICE BADGE Script used with ESX <3
 <br>
 Improved off of the newest POLICE BADGE Script. Written in .lua 
 <br>
-Runs at ~ 0.00 to 0.01 ms if you have more optimization suggestions feel free to reach out
+Runs at ~ 0.00 to 0.01 ms if you have more optimization suggestions feel free to reach out.
 
 # Follow me in my Social Networks
 * [YOUTUBE](https://www.youtube.com/channel/UChRcrcs1EZna4hGIn1KD3cw)
@@ -14,12 +14,15 @@ Runs at ~ 0.00 to 0.01 ms if you have more optimization suggestions feel free to
 # Installation
 * **just put in your server.cfg " ensure kurat420_policebadge "**
 * **check the badge.sql file and put on your database**
+* To put the picture u need to go to you MDT and upload on your Profile
 
 # Features
 * Animation Optimized
 * Show badge when start Animation's
 * Customizable
-* To put the picture u need to go to you MDT and upload on your Profile.
+
+
+
 
 # PROBLEMS
 * If u don't use a multicharacters script and only use " users " on SQL , you need to change the MySQL.Assync to this **BELLOW**

@@ -14,12 +14,15 @@ Runs at ~ 0.00 to 0.01 ms if you have more optimization suggestions feel free to
 # Installation
 * **just put in your server.cfg " ensure kurat420_policebadge "**
 * **check the badge.sql file and put on your database**
+* To put the picture u need to go to you MDT and upload on your Profile
 
 # Features
 * Animation Optimized
 * Show badge when start Animation's
-* Customizable 
-* To put the picture u need to go to you MDT and upload on your Profile
+* Customizable
+
+
+
 
 # PROBLEMS
 * If u don't use a multicharacters script and only use " users " on SQL , you need to change the MySQL.Assync to this **BELLOW**
@@ -28,6 +31,6 @@ Runs at ~ 0.00 to 0.01 ms if you have more optimization suggestions feel free to
 # Previews
 ### POLICE BADGE
 * [WATCH PREVIEW](https://streamable.com/e/18tv2f)
-
+  
 # Issues and Suggestions
 Please use the GitHub issues system to report issues or make suggestions, when making suggestion, please keep [Suggestion] in the title to make it clear that it is a suggestion.

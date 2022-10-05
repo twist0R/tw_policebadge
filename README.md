@@ -19,7 +19,7 @@ Runs at ~ 0.00 to 0.01 ms if you have more optimization suggestions feel free to
 * Animation Optimized
 * Show badge when start Animation's
 * Customizable
-* To put the picture u need to go to you MDT and upload on your Profile
+* To put the picture u need to go to you MDT and upload on your Profile.
 
 # PROBLEMS
 * If u don't use a multicharacters script and only use " users " on SQL , you need to change the MySQL.Assync to this **BELLOW**
@@ -28,6 +28,6 @@ Runs at ~ 0.00 to 0.01 ms if you have more optimization suggestions feel free to
 # Previews
 ### POLICE BADGE
 * [WATCH PREVIEW](https://streamable.com/e/18tv2f)
-
+  
 # Issues and Suggestions
 Please use the GitHub issues system to report issues or make suggestions, when making suggestion, please keep [Suggestion] in the title to make it clear that it is a suggestion.

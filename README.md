@@ -18,7 +18,7 @@ Runs at ~ 0.00 to 0.01 ms if you have more optimization suggestions feel free to
 # Features
 * Animation Optimized
 * Show badge when start Animation's
-* Customizable
+* Customizable 
 * To put the picture u need to go to you MDT and upload on your Profile
 
 # PROBLEMS

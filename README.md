@@ -12,7 +12,7 @@ Runs at ~ 0.00 to 0.01 ms if you have more optimization suggestions feel free to
 * [GitHub Profile](https://github.com/twist0R)
 
 # Installation
-* **just put in your server.cfg " ensure kurat420_policebadge "**
+* **just put in your server.cfg " ensure tw_policebadge "**
 * **check the badge.sql file and put on your database**
 * To put the picture u need to go to you MDT and upload on your Profile
 

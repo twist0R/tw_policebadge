@@ -21,9 +21,6 @@ Runs at ~ 0.00 to 0.01 ms if you have more optimization suggestions feel free to
 * Show badge when start Animation's
 * Customizable
 
-
-
-
 # PROBLEMS
 * If u don't use a multicharacters script and only use " users " on SQL , you need to change the MySQL.Assync to this **BELLOW**
 * SELECT * FROM user_mdt INNER JOIN users ON user_mdt.char_id=users.id where users.identifier = @identifier

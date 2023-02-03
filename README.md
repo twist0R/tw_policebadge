@@ -30,4 +30,4 @@ Runs at ~ 0.00 to 0.01 ms if you have more optimization suggestions feel free to
 * [WATCH PREVIEW](https://streamable.com/e/18tv2f)
    
 # Issues and Suggestions 
-Please use the GitHub issues system to report issues or make suggestions, when making suggestion, please keep [Suggestion] in the title to make it clear that it is a suggestion.
+Please use the GitHub issues system to report issues or make suggestions, when making suggestion, please keep [Suggestion] in the title to make it clear that it is a suggestion. 
